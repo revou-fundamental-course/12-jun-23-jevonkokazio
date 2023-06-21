@@ -1,0 +1,160 @@
+body{
+    background-image: url("termo2.png");
+    background-size: cover;
+}
+
+header {
+    background-color: #263A29;
+    color: white;
+    text-align: center;
+    margin-left: 700px;
+    margin-right: 700px;
+    border-radius: 10px;
+    font-family: "Courier New";
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 5.752);
+}
+
+#label1 {
+    margin-bottom: 4px;
+    font-size: 27px;
+    font-weight: bold;
+    color: #263A29 ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+
+#inputField {
+    outline: none;
+    font-size: 18px;
+    border-radius: 7px;
+    border: solid  #263A29;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    width: 30%;
+    font-weight: bolder;
+    background-color: #FFF8DE;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 4.452);
+    border-width: 2px;
+}
+#label2 {
+    margin-bottom: 4px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #263A29;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+
+#inputField2 {
+    outline: none;
+    font-size: 18px;
+    border-radius: 7px;
+    border: solid  #263A29;
+    padding: 10px;
+    margin-bottom: 25px;
+    width: 30%;
+    font-weight: bolder;
+    background-color: #FFF8DE;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 4.452);
+    border-width: 2px;
+}
+
+#label3 {
+    margin-bottom: 4px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #263A29 ;
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+
+#inputField3 {
+    outline: none;
+    font-size: 18px;
+    border-radius: 7px;
+    border: solid  #263A29;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 5px;
+    width: 30%;
+    font-weight: bolder;
+    background-color: #FFF8DE;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 4.452);
+    border-width: 2px;
+}
+
+#inputField:focus, #inputField2:focus, #inputField3:focus {
+    border: solid #F3E99F;
+}
+
+.inputSection {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+
+button{
+    background-color: #263A29;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 13px;
+    border-color: solid #8D7B68;
+    margin-bottom: 15px;
+}
+
+#button1 {
+    margin-left: 380px;
+}
+
+button:hover{
+    background-color: #2d7ae6;
+}
+
+button:active{
+    transform: translateY(2px);
+}
+
+#cara {
+    padding-top: 30px;
+    font-size: 18px;
+    color:  black;
+}
+
+.sub2 {
+    font-family: "Courier New";
+    margin-top: 10px;
+    margin-bottom: 4px;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    background-color: #263A29 ;
+    border-radius: 7px;
+    padding-left: 15px;
+    width: 37%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
+}
+
+#colon1 {
+    margin-left: 25px;
+}
+
+#colon3{
+    margin-left: 42px;
+}

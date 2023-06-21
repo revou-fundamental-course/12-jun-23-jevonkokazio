@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/admin/projects/helloworld"
+		},
+		{
+			"path": "c++"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}

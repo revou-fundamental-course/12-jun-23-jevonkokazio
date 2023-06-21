@@ -1,0 +1,51 @@
+2022-12-17 19:10:12.5552|INFO|VirtualTabletServer.AutoDiscoveryServers|AutoDiscovery: started
+2022-12-17 19:10:12.5658|INFO|VirtualTabletServer.AutoDiscoveryServers|AutoDiscovery: waiting
+2022-12-17 19:10:12.8552|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:10:14.9749|INFO|VirtualTabletServer.Network.ADBCommand|
+2022-12-17 19:10:14.9749|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 0
+2022-12-17 19:10:14.9749|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:10:20.6228|INFO|VirtualTabletServer.Network.ADBCommand|* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+
+2022-12-17 19:10:20.6228|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 1
+2022-12-17 19:12:06.3473|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:12:06.3663|INFO|VirtualTabletServer.Network.ADBCommand|
+2022-12-17 19:12:06.3663|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 0
+2022-12-17 19:12:06.3663|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:12:11.4623|INFO|VirtualTabletServer.Network.ADBCommand|* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+
+2022-12-17 19:12:11.4623|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 1
+2022-12-17 19:12:23.7293|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:12:23.7469|INFO|VirtualTabletServer.Network.ADBCommand|
+2022-12-17 19:12:23.7538|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 0
+2022-12-17 19:12:23.7538|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:12:28.8676|INFO|VirtualTabletServer.Network.ADBCommand|* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+
+2022-12-17 19:12:28.8676|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 1
+2022-12-17 19:13:02.8253|INFO|VirtualTabletServer.AutoDiscoveryServers|AutoDiscovery:Received from 192.168.100.18, VirtualInput:IsServerThere
+2022-12-17 19:13:02.8253|INFO|VirtualTabletServer.AutoDiscoveryServers|AutoDiscovery:Response to 192.168.100.18, VirtualInput:ServerFoundDESKTOP-3ICFDJF
+2022-12-17 19:13:02.8253|INFO|VirtualTabletServer.AutoDiscoveryServers|AutoDiscovery: waiting
+2022-12-17 19:13:06.0722|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:13:06.3606|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:13:06.3606|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:13:07.2206|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:13:07.8224|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:13:14.0966|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:15:49.8597|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:15:49.8597|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:16:03.3135|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:16:08.2578|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:16:08.2658|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:16:13.4259|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:17:50.9913|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:17:51.0092|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:17:53.0007|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:18:01.3087|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:18:01.3192|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
+2022-12-17 19:18:03.0403|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Connected
+2022-12-17 19:19:34.2631|INFO|VirtualTabletServer.Network.ADBCommand|waitingforExit
+2022-12-17 19:19:34.2838|INFO|VirtualTabletServer.Network.ADBCommand|
+2022-12-17 19:19:34.2838|INFO|VirtualTabletServer.Network.ADBCommand|exited with code: 0
+2022-12-17 19:19:47.2101|INFO|VirtualTabletServer.MainForm|OnServerStatusChange: Disconnected
