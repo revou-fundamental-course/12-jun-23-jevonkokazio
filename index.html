@@ -13,26 +13,31 @@
     </header>
     <p id="cara">Insert the temperature degree in <b>Celcius (&deg;C)</b> into the box below, then click the Conversion <br>button in order to obtain the results in <b>Fahrenheit (&deg;F)</b>.</p>
     <section class="InputSection">
-        <label for="inputField" id="label1">Celcius (&deg;C) <span id="colon1">:</span></label>
+        <label for="inputField" id="label1">Celsius <span id="colon1">:</span></label></br>
         <input type="number" id="inputField"/>
         <div class="button">
-            <button id="button1">Convert</button>
-            <button>Reset</button>
-            <button>Reverse</button>
+            <button id="button1" onclick="konversi()">Convert</button>
+            <button id="button2" onclick="resett()">Reset</button>
+            <button id="button3" onclick="balik()">Reverse</button>
         </div>
     <section class="InputButtonSection">
-        <label for="inputField2" id="label2">Fahrenheit (&deg;F) :</label>
+        <label for="inputField2" id="label2">Fahrenheit <span id="colon2">:</span></label></section></br>
         <input type="number" id="inputField2" disabled>
     </section>
     <section class="InputButtonSection">
-        <label for="inputField3" id="label3" >Calculation <span id="colon3">:</span></label>
+        <label for="inputField3" id="label3" >Calculation <span id="colon3">:</span></label></br>
         <textarea id="inputField3" disabled></textarea>
     </section>
 
-    <p>Fahrenheit (&deg;F) to Celcius (&deg;C)</p>
+    <p id="fahtocel">Fahrenheit to Celsius</p>
     <section class="sub2">
         <h1>How to Convert from Celcius (&deg;C) to Fahrenheit (&deg;F)</h1>
     </section>
-    <hr>
+    <hr id="pembatas" align="left">
+    <p id="rumus">Temperature <i>T</i> in Fahrenheit (&deg;F) equals to temperature <i>T</i> in Celsius (&deg;C) * 9/5 + 32</p>
+    <ul>
+        <li>T<sub>(&deg;F)</sub> = (T<sub>(&deg;C)</sub> * 9/5) + 32</li> or<br> T<sub>(&deg;F)</sub> = (T<sub>(&deg;C)</sub> * 1.8) + 32
+    </ul>
+    <script src="js/script.js"></script>
 </body>
 </html>

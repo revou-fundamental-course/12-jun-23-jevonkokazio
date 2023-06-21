@@ -1,5 +1,5 @@
 body{
-    background-image: url("termo2.png");
+    background-image: url("../termo2.png");
     background-size: cover;
 }
 
@@ -120,7 +120,7 @@ button{
 }
 
 #button1 {
-    margin-left: 380px;
+    margin-left: 170px;
 }
 
 button:hover{
@@ -151,10 +151,23 @@ button:active{
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.452);
 }
 
-#colon1 {
-    margin-left: 25px;
+#fahtocel {
+    font-size: 20px;
+    font-weight: bold;
+    color: #FDFF00;
 }
 
-#colon3{
-    margin-left: 42px;
+#pembatas {
+    width: 40%;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+ul{
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#rumus {
+    font-size: 19px;
 }
