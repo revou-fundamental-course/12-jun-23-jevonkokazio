@@ -3,7 +3,7 @@ function resett() {
     document.getElementById("inputField2").value = "";
     document.getElementById("inputField3").value = "";
   }
-i
+
   function konversi() {
     const angkaIn = document.getElementById("inputField").value;
     if (angkaIn == "") {
